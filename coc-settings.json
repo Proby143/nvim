@@ -1,4 +1,14 @@
 {
+  //"java.home": "/usr/lib/jvm/java-8-openjdk",
+  "java.trace.server": "verbose",
+  //"java.configuration.runtimes": [
+  //  {
+  //    "name": "JavaSE-1.8",
+  //    "path": "/usr/lib/jvm/java-8-openjdk",
+  //    "default": true
+  // }
+  //],
+  //"java.jdt.ls.home": "/home/cogs/coc/extensions",
   // suggestions
   // "suggest.echodocSupport": true,
   // TODO add more labels and give them cool glyphs
@@ -69,7 +79,6 @@
 
   //coc-emoji
   "coc.source.emoji.filetypes": ["markdown"]
-
   // TODO b:coc_suggest_disable=1 GOYO
   // TODO add to paths.vim g:coc_node_path
 }

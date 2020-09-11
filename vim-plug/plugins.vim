@@ -48,6 +48,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'alvan/vim-closetag'
     " Themes
     Plug 'christianchiarulli/nvcode.vim'
+    " debug
+    Plug 'puremourning/vimspector'
     " Intellisense
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
     " Status Line
